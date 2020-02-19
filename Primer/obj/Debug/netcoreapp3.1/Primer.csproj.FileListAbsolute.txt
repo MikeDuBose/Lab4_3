@@ -1,0 +1,11 @@
+C:\Users\mdubose\source\repos\Lab4_3\Primer\bin\Debug\netcoreapp3.1\Primer.exe
+C:\Users\mdubose\source\repos\Lab4_3\Primer\bin\Debug\netcoreapp3.1\Primer.deps.json
+C:\Users\mdubose\source\repos\Lab4_3\Primer\bin\Debug\netcoreapp3.1\Primer.runtimeconfig.json
+C:\Users\mdubose\source\repos\Lab4_3\Primer\bin\Debug\netcoreapp3.1\Primer.runtimeconfig.dev.json
+C:\Users\mdubose\source\repos\Lab4_3\Primer\bin\Debug\netcoreapp3.1\Primer.dll
+C:\Users\mdubose\source\repos\Lab4_3\Primer\bin\Debug\netcoreapp3.1\Primer.pdb
+C:\Users\mdubose\source\repos\Lab4_3\Primer\obj\Debug\netcoreapp3.1\Primer.AssemblyInfoInputs.cache
+C:\Users\mdubose\source\repos\Lab4_3\Primer\obj\Debug\netcoreapp3.1\Primer.AssemblyInfo.cs
+C:\Users\mdubose\source\repos\Lab4_3\Primer\obj\Debug\netcoreapp3.1\Primer.dll
+C:\Users\mdubose\source\repos\Lab4_3\Primer\obj\Debug\netcoreapp3.1\Primer.pdb
+C:\Users\mdubose\source\repos\Lab4_3\Primer\obj\Debug\netcoreapp3.1\Primer.csprojAssemblyReference.cache
